@@ -6,6 +6,8 @@ This repository is dedicated to tracking my journey through Data Structures and 
 
 A highly recommended resource for structured DSA preparation is [Love Babbar's DSA Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view). It covers a comprehensive set of questions and is a great starting point.
 
+For studying concepts follow - TUF and Apna College
+
 ## 🚀 Contribution Guidelines
 
 - **Navigate** to the folder corresponding to the relevant topic (e.g., Arrays, Linked Lists, Trees, etc.).
